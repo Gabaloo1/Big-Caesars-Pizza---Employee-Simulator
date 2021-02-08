@@ -1,5 +1,5 @@
 # Big Caesars Pizza: Employee Simulator
-Submission to GrizzHacks 5 (2021).
+Winner Submission to GrizzHacks 5 (2021).<br/>
 Created by Gabriel Sotelo and Luigi Cabrera.
 
 Check out our Demo Video [here](https://youtu.be/TzO_j7Ibn2Y)<br/> Visit our DevPost Submission [here](https://devpost.com/software/big-caesars-pizza-employee-simulator)
