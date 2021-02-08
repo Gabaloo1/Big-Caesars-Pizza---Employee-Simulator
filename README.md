@@ -2,8 +2,7 @@
 Submission to GrizzHacks 5 (2021).
 Created by Gabriel Sotelo and Luigi Cabrera.
 
-Check out our Demo Video [here](https://youtu.be/TzO_j7Ibn2Y)
-Visit our DevPost Submission [here](https://devpost.com/software/big-caesars-pizza-employee-simulator)
+Check out our Demo Video [here](https://youtu.be/TzO_j7Ibn2Y)  Visit our DevPost Submission [here](https://devpost.com/software/big-caesars-pizza-employee-simulator)
 
 ## Inspiration
 Create fun for everyone amid difficult times. We wanted to set a challenge to ourselves by making a challenging and yet addictive videogame.
